@@ -182,7 +182,7 @@ input{
     background-color: #008000;
     color: #fff;
     font-weight: bold;
-    padding: 5px;
+    padding: 7px;
     border-radius: 10px;
     border: solid 1px #fff;
 }
@@ -221,12 +221,3 @@ a:hover{
 }
 
 
- /* o  text-shadow serve para colocar sombras */
-/* o repeat(auto-fill,minmax(px, rf)) é um codgo para determinar um tamanho, falando que ele tem um tapanho (auto-fill/px) mas se a tela diminuir ele ira fragmentar(minmax/fr) */
-    /*o fr é o fragmento, ele vai ver o objeto dentro daquele local e vai fragmentar do jeito que ele acha correto */
-    /* columns é um modelo em colunas dentro do tmplate */
-     /* padding serve para aumentar o espaço do objeto */
-     /* o grid-gap é o total de espaço entre as colunas */
-     /* o tipo grid é um modelo de grade */
-    /* o display é o espaço que o intem esta ocupando */
-     /* border-radius são as pontas da imagem. as pontas funcionam em sentido horario. */
